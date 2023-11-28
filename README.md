@@ -1,7 +1,16 @@
-# Instagram
-My Instagram App with Flutter !
-<div>
-  <img src="https://github.com/MahdiOSS/Instagram/blob/main/Screenshot_2023-11-28-19-34-09-407_com.example.instagram.jpg" width = 200/>
+# instagram
 
-   <img src="https://github.com/MahdiOSS/Instagram/blob/main/Screenshot_2023-11-28-19-34-32-836_com.example.instagram.jpg" width = 200/>
-</div>
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

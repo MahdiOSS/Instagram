@@ -1,0 +1,1 @@
+enum itemMode { Follow, Message, Image }
